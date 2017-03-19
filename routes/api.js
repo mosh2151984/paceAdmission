@@ -9,11 +9,11 @@ router.get('/', (req, res) => {
 
 
 //Routes
-const drivers = require('./drivers.js');
-const users = require('./users.js');
+const instructor = require('./instructor.js');
+const student = require('./student.js');
 const error404 = require('./error404.js');
-router.use('/drivers',drivers);
-router.use('/users',users);
+router.use('/instructor',instructor);
+router.use('/student',student);
 router.use('**',error404);
 
 module.exports = router;

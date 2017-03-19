@@ -5,6 +5,7 @@ const cors = require('cors');
 const bodyparser = require('body-parser');
 const passport = require('passport');
 const net = require('net');
+const config =require('./config/database');
 
 
 //port
@@ -23,6 +24,16 @@ app.use('/api', api);
 app.use(cors());
 app.use(bodyparser.json());
 app.use(bodyparser.urlencoded({ extended: true }));
+
+//database start
+mongoose.connect(config.database);
+let db = mongoose.connection;
+db.on('connected',()=>{
+  console.log('conected to database'+ config.database)
+});
+db.on('error',(err)=>{
+  console.log('Database Error: '+ err)
+});
 
 //static folder
 app.use(express.static(path.join(__dirname,'public')));
