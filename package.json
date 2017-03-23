@@ -8,18 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "Delever"
+    "url": "paceAdmission"
   },
-  "dependencies":{
-    "express":"*",
-    "mongoose":"*",
-    "bcryptjs":"*",
-    "cors":"*",
-    "jsonwebtoken":"*",
-    "body-parser":"*",
-    "passport":"*",
-    "passport-jwt":"*"
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
   },
   "author": "Mohamed Hamza",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "flightplan": "^0.6.15"
+  }
 }
