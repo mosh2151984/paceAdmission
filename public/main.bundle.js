@@ -31,7 +31,7 @@ var AboutComponent = (function () {
     ], AboutComponent);
     return AboutComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/about.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/about.component.js.map
 
 /***/ }),
 
@@ -66,7 +66,7 @@ var DashboardComponent = (function () {
     ], DashboardComponent);
     return DashboardComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/dashboard.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/dashboard.component.js.map
 
 /***/ }),
 
@@ -89,13 +89,13 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var HomeComponent = (function () {
     function HomeComponent() {
         this.masterSlids = [
-            { imgUrl: "http://www.davidmckay.info/banner.jpg",
+            { imgUrl: "../../../assets/slid1.jpg",
                 title: "Online Consultancy",
                 content: "All the information that is related to studying abroad" },
-            { imgUrl: "https://wallpaperscraft.com/image/students_pupils_notebooks_study_80727_5193x3534.jpg",
+            { imgUrl: "../../../assets/slid2.jpg",
                 title: "Student-To- Student Guidance",
                 content: "Our new System matches you with a student who has gone through the admissions process and would be happy to help you with the process." },
-            { imgUrl: "https://wallpaperscraft.com/image/students_boys_girls_study_friends_80723_3480x2362.jpg",
+            { imgUrl: "../../../assets/slid3.jpg",
                 title: "Long Term Service",
                 content: "We are able to provide solutions to issues you face after gaining admission." }
         ];
@@ -112,7 +112,7 @@ var HomeComponent = (function () {
     ], HomeComponent);
     return HomeComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/home.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/home.component.js.map
 
 /***/ }),
 
@@ -147,7 +147,7 @@ var LoginComponent = (function () {
     ], LoginComponent);
     return LoginComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/login.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/login.component.js.map
 
 /***/ }),
 
@@ -182,7 +182,7 @@ var PagenotfoundComponent = (function () {
     ], PagenotfoundComponent);
     return PagenotfoundComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/pagenotfound.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/pagenotfound.component.js.map
 
 /***/ }),
 
@@ -236,7 +236,7 @@ var RegisterComponent = (function () {
     return RegisterComponent;
     var _a;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/register.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/register.component.js.map
 
 /***/ }),
 
@@ -271,7 +271,7 @@ var ServicesComponent = (function () {
     ], ServicesComponent);
     return ServicesComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/services.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/services.component.js.map
 
 /***/ }),
 
@@ -338,7 +338,7 @@ var ValidatService = (function () {
     ], ValidatService);
     return ValidatService;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/validat.service.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/validat.service.js.map
 
 /***/ }),
 
@@ -373,7 +373,7 @@ if (__WEBPACK_IMPORTED_MODULE_2__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["a" /* enableProdMode */])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_3__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/main.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/main.js.map
 
 /***/ }),
 
@@ -435,7 +435,7 @@ var AppRoutingModule = (function () {
     ], AppRoutingModule);
     return AppRoutingModule;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/app-routing.module.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/app-routing.module.js.map
 
 /***/ }),
 
@@ -468,7 +468,7 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/app.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/app.component.js.map
 
 /***/ }),
 
@@ -566,7 +566,7 @@ var AppModule = (function () {
     ], AppModule);
     return AppModule;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/app.module.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/app.module.js.map
 
 /***/ }),
 
@@ -608,7 +608,7 @@ var CarouselComponent = (function () {
     ], CarouselComponent);
     return CarouselComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/carousel.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/carousel.component.js.map
 
 /***/ }),
 
@@ -648,7 +648,7 @@ var NavbarComponent = (function () {
     ], NavbarComponent);
     return NavbarComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/navbar.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/navbar.component.js.map
 
 /***/ }),
 
@@ -684,7 +684,7 @@ var AthService = (function () {
     return AthService;
     var _a;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/ath.service.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/ath.service.js.map
 
 /***/ }),
 
@@ -700,7 +700,7 @@ var AthService = (function () {
 var environment = {
     production: false
 };
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/GitHub/Pace Admission/MyApp/src/environment.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/environment.js.map
 
 /***/ }),
 
@@ -721,7 +721,7 @@ module.exports = "\r\nh2{\r\n  text-align: center;\r\n}\r\np{\r\n  width: 75%;\r
 /***/ 878:
 /***/ (function(module, exports) {
 
-module.exports = "html,body{\r\n  height: 100%;\r\n \r\n\r\n}\r\n\r\n\r\n\r\nh1,h2{\r\n  text-align: center;\r\n  font-size: 100%;\r\n  font-size: 6.2vmin;\r\n}\r\ndiv #slide{\r\n  background-size: 100% 100%;\r\n  position: relative;\r\n  background-attachment: fixed;\r\n  min-width: 300px;\r\n  min-height: 300px;\r\n  height: 70vh\r\n}\r\n#content{\r\n  position: relative;\r\n  background-size: 100% 100%;\r\n  -webkit-background-size: 100% 100% ;\r\n  background: rgba(0, 0, 0, 0.4);\r\n  color: wheat;\r\n  height: 100vh;\r\n  padding: 10vh\r\n}"
+module.exports = "html,body{\r\n  height: 100%;\r\n \r\n\r\n}\r\n\r\n\r\n\r\nh1,h2{\r\n  text-align: center;\r\n  font-size: 100%;\r\n  font-size: 6.2vmin;\r\n}\r\ndiv #slide{\r\n  background-size: 100% 100%;\r\n  /*position: relative;*/\r\n  min-width: 300px;\r\n  min-height: 300px;\r\n  height: 70vh;\r\n  background-repeat: no-repeat;\r\n  margin-bottom:0; \r\n}\r\n#content{\r\n  position: relative;\r\n  background-size: 100% 100%;\r\n  -webkit-background-size: 100% 100% ;\r\n  background: rgba(0, 0, 0, 0.4);\r\n  color: wheat;\r\n  height: 100vh;\r\n  padding: 10vh\r\n}"
 
 /***/ }),
 
@@ -742,7 +742,7 @@ module.exports = "h2{\r\n  text-align: center;\r\n}\r\nhtml{\r\n  margin: 0\r\n}
 /***/ 881:
 /***/ (function(module, exports) {
 
-module.exports = ".flexDemoContainer {\r\n  background-image: url(https://wallpaperscraft.com/image/library_student_girl_textbooks_77146_602x339.jpg);\r\n  background-size: 100% 100%;\r\n  box-sizing:border-box;\r\n  min-height: 80vh;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -ms-flex-pack: distribute;\r\n      justify-content: space-around;\r\n  -webkit-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center\r\n}\r\nmd-card{\r\n    background: rgba(0, 0, 0, 0.6);\r\n    color: wheat;\r\n}\r\na{\r\n  color: wheat;\r\n}\r\n"
+module.exports = ".flexDemoContainer {\r\n  background-image: url(../../../assets/register_login.jpg);\r\n  background-size: 100% 100%;\r\n  box-sizing:border-box;\r\n  min-height: 80vh;\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -ms-flex-pack: distribute;\r\n      justify-content: space-around;\r\n  -webkit-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center\r\n}\r\nmd-card{\r\n    background: rgba(0, 0, 0, 0.6);\r\n    color: wheat;\r\n}\r\na{\r\n  color: wheat;\r\n}\r\n"
 
 /***/ }),
 
@@ -763,14 +763,14 @@ module.exports = ""
 /***/ 884:
 /***/ (function(module, exports) {
 
-module.exports = "section {\r\n    min-height: 100vh;\r\n    background-image: url(https://wallpaperscraft.com/image/library_student_girl_textbooks_77146_602x339.jpg);\r\n    background-size: 100% 100%;\r\n    background-color: black;\r\n    padding-top: 50px;\r\n    -webkit-box-flex: 1;\r\n        -ms-flex: 1;\r\n            flex: 1;\r\n   \r\n}\r\nmd-card{\r\n    max-width: 500px;\r\n    background: rgba(0, 0, 0, 0.4);\r\n    color: wheat;\r\n     display: -webkit-box;\r\n     display: -ms-flexbox;\r\n     display: flex; \r\n    -webkit-box-orient: vertical; \r\n    -webkit-box-direction: normal; \r\n        -ms-flex-direction: column; \r\n            flex-direction: column; \r\n    margin-left: auto;\r\n    margin-right: auto\r\n}\r\n\r\n .ng-invalid:not(form) {\r\n  border-left: 5px solid #a94442; /* red */\r\n}\r\nlegend{\r\n    color: wheat\r\n}"
+module.exports = "section {\r\n    min-height: 100vh;\r\n    background-image: url(../../../assets/register_login.jpg);\r\n    background-size: 100% 100%;\r\n    background-color: black;\r\n    padding-top: 50px;\r\n    -webkit-box-flex: 1;\r\n        -ms-flex: 1;\r\n            flex: 1;\r\n   \r\n}\r\nmd-card{\r\n    max-width: 500px;\r\n    background: rgba(0, 0, 0, 0.4);\r\n    color: wheat;\r\n     display: -webkit-box;\r\n     display: -ms-flexbox;\r\n     display: flex; \r\n    -webkit-box-orient: vertical; \r\n    -webkit-box-direction: normal; \r\n        -ms-flex-direction: column; \r\n            flex-direction: column; \r\n    margin-left: auto;\r\n    margin-right: auto\r\n}\r\n\r\n .ng-invalid:not(form) {\r\n  border-left: 5px solid #a94442; /* red */\r\n}\r\nlegend{\r\n    color: wheat\r\n}"
 
 /***/ }),
 
 /***/ 885:
 /***/ (function(module, exports) {
 
-module.exports = "h1,h2,h3{\r\n  text-align: center;\r\n  padding: 5vh;\r\n  box-sizing: border-box;\r\n  margin: 0\r\n}\r\n.showcass{\r\n  min-height: 75vh;\r\n  background: rgba(0, 0, 0, 0.5)\r\n}\r\nmd-card{\r\n  width: 300px;\r\n  margin-bottom: 10vh;\r\n}\r\nsection{\r\n  min-height: 75vh;\r\n  background: url(\"http://riveroflifeint.com/wp/wp-content/uploads/2014/10/BlueCirclesGridHD1.jpg\");\r\n  color: wheat;\r\n  background-size: 100% 100%;\r\n  background-repeat: no-repeat\r\n}\r\n.flexcontainer{\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -ms-flex-wrap: wrap;\r\n      flex-wrap: wrap;\r\n  -webkit-box-align: stretch;\r\n      -ms-flex-align: stretch;\r\n          align-items: stretch;\r\n  -ms-flex-pack: distribute;\r\n      justify-content: space-around;\r\n\r\n}\r\nmd-card{\r\n  margin-bottom: 5vh;\r\n  max-width: 300px;\r\n  background: rgba(255, 255, 255, 0.5);\r\n}\r\nmd-card>img{\r\n  height: 50%\r\n}\r\n"
+module.exports = "h1,h2,h3{\r\n  text-align: center;\r\n  padding: 5vh;\r\n  box-sizing: border-box;\r\n  margin: 0\r\n}\r\n.showcass{\r\n  min-height: 75vh;\r\n  background: rgba(0, 0, 0, 0.5)\r\n}\r\nmd-card{\r\n  width: 300px;\r\n  margin-bottom: 10vh;\r\n}\r\nsection{\r\n  min-height: 75vh;\r\n  background: url(\"../../../assets/servicesBG.jpg\");\r\n  color: wheat;\r\n  background-size: 100% 100%;\r\n  background-repeat: no-repeat\r\n}\r\n.flexcontainer{\r\n  display: -webkit-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -ms-flex-wrap: wrap;\r\n      flex-wrap: wrap;\r\n  -webkit-box-align: stretch;\r\n      -ms-flex-align: stretch;\r\n          align-items: stretch;\r\n  -ms-flex-pack: distribute;\r\n      justify-content: space-around;\r\n\r\n}\r\nmd-card{\r\n  margin-bottom: 5vh;\r\n  max-width: 300px;\r\n  background: rgba(255, 255, 255, 0.5);\r\n}\r\nmd-card>img{\r\n  height: 50%\r\n}\r\n"
 
 /***/ }),
 
@@ -784,14 +784,14 @@ module.exports = "<md-toolbar color=\"primary\">\n    <span style=\"font-family:
 /***/ 888:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\" >\n  <img src=\"http://evolutionlabs.org/mo/images/business-people.png\">\n\n</div>\n<div class=\"fst\">\n    <div class=\"fstIn\">\n      <h2>About Us</h2>\n\n    <br>\n\n      <p >Given our personal\n          experience with the challenges of international students, we chooseto remain as advisors to students\n          after they utilize our services. Webelieve this benefits increase the presence of international students,not only in U.S.\n          Universities, but also in the workforce.<br /><br />Rooted from our own experience,\n          we aim to facilitate the admission process for international students into US universities.\n           This is a fairly easy process but it requires procedures that students have not been exposed to,\n           given our familiarity we aim to bridge the gap between qualified students and suitable institutions.\n            We firmly believe that a strong tertiary education is a vital step towards success as a young professional.\n        </p>\n        <p>\n          Rooted from our experience,\n          we realized that the best way to guidance comes from someone who has hassled with the process before.\n          Our new Student-To-Student guidance system connects you with a student who has been exposed to the same experience,\n          and took successful steps towards the US college admissions process.\n          Our services are tailored per your need, so you don’t need to pay extra money for a service that you can do it on your own.\n        </p>\n    </div>\n</div>\n\n<div class=\"fst2\">\n    <h2>Our Skills</h2>\n    <br>\n    <p >We are determined to provide students\n        with recommendations, which place them on the right track in theapplication process.\n        <br /><br />Founded in 2014 <strong>PACE ADMISSIONS</strong>\n        is a company that offers consulting services to international students who aim to pursue graduate and undergraduate education in the United States.\n        The initiative came about after realizing the difficulties students face in completing the application requirements.\n        Being international students, we faced these struggles and were always a step behind domestic students in the application process.\n        Hence, we are determined to connect you with a student who has achieved this process successfully,\n        and is willing to give his best advice to you after he became familiar with US college admissions system.\n    </p>\n</div>\n<br>\n"
+module.exports = "<div class=\"container\" >\n  <img src=\"../../../assets/about.png\">\n\n</div>\n<div class=\"fst\">\n    <div class=\"fstIn\">\n      <h2>About Us</h2>\n\n    <br>\n\n      <p >Given our personal\n          experience with the challenges of international students, we chooseto remain as advisors to students\n          after they utilize our services. Webelieve this benefits increase the presence of international students,not only in U.S.\n          Universities, but also in the workforce.<br /><br />Rooted from our own experience,\n          we aim to facilitate the admission process for international students into US universities.\n           This is a fairly easy process but it requires procedures that students have not been exposed to,\n           given our familiarity we aim to bridge the gap between qualified students and suitable institutions.\n            We firmly believe that a strong tertiary education is a vital step towards success as a young professional.\n        </p>\n        <p>\n          Rooted from our experience,\n          we realized that the best way to guidance comes from someone who has hassled with the process before.\n          Our new Student-To-Student guidance system connects you with a student who has been exposed to the same experience,\n          and took successful steps towards the US college admissions process.\n          Our services are tailored per your need, so you don’t need to pay extra money for a service that you can do it on your own.\n        </p>\n    </div>\n</div>\n\n<div class=\"fst2\">\n    <h2>Our Skills</h2>\n    <br>\n    <p >We are determined to provide students\n        with recommendations, which place them on the right track in theapplication process.\n        <br /><br />Founded in 2014 <strong>PACE ADMISSIONS</strong>\n        is a company that offers consulting services to international students who aim to pursue graduate and undergraduate education in the United States.\n        The initiative came about after realizing the difficulties students face in completing the application requirements.\n        Being international students, we faced these struggles and were always a step behind domestic students in the application process.\n        Hence, we are determined to connect you with a student who has achieved this process successfully,\n        and is willing to give his best advice to you after he became familiar with US college admissions system.\n    </p>\n</div>\n<br>\n"
 
 /***/ }),
 
 /***/ 889:
 /***/ (function(module, exports) {
 
-module.exports = "<div>\n     <carousel>\n       \n       <slide *ngFor=\"let slide of carsorslides\" >\n       <div id=\"slide\"  [ngStyle]=\"{'background-image': 'url('+ slide.imgUrl +')','background-attachment': 'fixed'}\">\n         <div id=\"content\">\n\n             <h1><b>{{slide.title}}</b></h1>\n                <h2>{{slide.content}}</h2>\n           \n                   <p class=\"carousel-caption \"></p> \n         </div>\n           \n              \n       </div>\n       </slide>\n     </carousel>\n   </div>\n"
+module.exports = "<div>\n     <carousel>\n       \n       <slide *ngFor=\"let slide of carsorslides\" >\n       <div id=\"slide\"  [ngStyle]=\"{'background-image': 'url('+ slide.imgUrl +')'}\">\n         <div id=\"content\">\n\n             <h1><b>{{slide.title}}</b></h1>\n                <h2>{{slide.content}}</h2>\n           \n                   <p class=\"carousel-caption \"></p> \n         </div>\n           \n              \n       </div>\n       </slide>\n     </carousel>\n   </div>\n"
 
 /***/ }),
 
@@ -805,7 +805,7 @@ module.exports = "<p>\n  dashboard works!\n</p>\n"
 /***/ 891:
 /***/ (function(module, exports) {
 
-module.exports = "\n\n    <app-carousel [masterSlids]=\"masterSlids\"></app-carousel>\n    <section   >\n      <div class=\"container\">\n            <h2>Welcome</h2>\n            <p class=\"lead\">We aim to facilitate the admission process for international students into US universities.\n                 Applying to universities in the United States requires procedures that students are not exposed to.\n                 Given our familiarity with the process, we can bridge the gap between qualified students and suitable institutions.\n                 Rooted from our own experience, the initiative came about after realizing the tedious complexities in the application requirements.\n                 Our student-to- student system provides the most efficient solution to international student guidance.\n                 Our services are tailored per your needs, and our advisors would always strive to provide the best service.\n            </p>\n      </div>\n    </section>\n\n    <br>\n    <section style=\"background: rgba(0, 0, 255, 0.2)\">\n      <div class=\"container\">\n        <h2>How Pace Admissions Works</h2>\n        <br>\n        <div class=\"howItWork\">\n          <md-card>\n             <img md-card-image src=\"https://cdn-cayenneconsultin.netdna-ssl.com/blog/wp-content/uploads/2014/01/problem-analysis-solution.jpg\" alt=\"what you need\">\n             <md-card-title>\n                Tell us what you need?\n             </md-card-title>\n             <md-card-content>\n               First, sign up for free and tell us what type of services you are looking for.\n             </md-card-content>\n          </md-card>\n          <md-card>\n            <img md-card-image src=\"http://images2.boardingschoolreview.com/article/462x462/0/90/-Why-We-Chose-Boarding-Rather-than-Day-School-uvL06t.jpg\" alt=\"Review Quotes\">\n            <md-card-title>\n                Review Quotes\n             </md-card-title>\n             <md-card-content>\n              Within hours, you will receive up to 3 custom quotes based on your specific needs.\n             </md-card-content>\n          </md-card>\n          <md-card>\n            <img md-card-image src=\"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJ0M5RkpIVJahtUvgAIMBIkm35FGFzShIYFoFZdjxp-DgSwC7C\" alt=\"hire the right advisor\">\n            <md-card-title>\n                Hire the right advisor\n             </md-card-title>\n             <md-card-content>\n              Compare quotes, profiles, and reviews, then hire the advisor that’s right for you.\n             </md-card-content>\n          </md-card>\n        </div>\n      </div>\n    </section>\n"
+module.exports = "\n\n    <app-carousel [masterSlids]=\"masterSlids\"></app-carousel>\n    <section   >\n      <div class=\"container\">\n            <h2>Welcome</h2>\n            <p class=\"lead\">We aim to facilitate the admission process for international students into US universities.\n                 Applying to universities in the United States requires procedures that students are not exposed to.\n                 Given our familiarity with the process, we can bridge the gap between qualified students and suitable institutions.\n                 Rooted from our own experience, the initiative came about after realizing the tedious complexities in the application requirements.\n                 Our student-to- student system provides the most efficient solution to international student guidance.\n                 Our services are tailored per your needs, and our advisors would always strive to provide the best service.\n            </p>\n      </div>\n    </section>\n\n    <br>\n    <section style=\"background: rgba(0, 0, 255, 0.2)\">\n      <div class=\"container\">\n        <h2>How Pace Admissions Works</h2>\n        <br>\n        <div class=\"howItWork\">\n          <md-card>\n             <img md-card-image src=\"../../../assets/Tell_us_what_you_need.jpg\" alt=\"what you need\">\n             <md-card-title>\n                Tell us what you need?\n             </md-card-title>\n             <md-card-content>\n               First, sign up for free and tell us what type of services you are looking for.\n             </md-card-content>\n          </md-card>\n          <md-card>\n            <img md-card-image src=\"../../../assets/Review_Quotes.jpg\" alt=\"Review Quotes\">\n            <md-card-title>\n                Review Quotes\n             </md-card-title>\n             <md-card-content>\n              Within hours, you will receive up to 3 custom quotes based on your specific needs.\n             </md-card-content>\n          </md-card>\n          <md-card>\n            <img md-card-image src=\"../../../assets/advisor.jpg\" alt=\"hire the right advisor\">\n            <md-card-title>\n                Hire the right advisor\n             </md-card-title>\n             <md-card-content>\n              Compare quotes, profiles, and reviews, then hire the advisor that’s right for you.\n             </md-card-content>\n          </md-card>\n        </div>\n      </div>\n    </section>\n"
 
 /***/ }),
 
@@ -840,7 +840,7 @@ module.exports = "\r\n<section >\r\n  <div class=\"contaner\">\r\n      <md-card
 /***/ 896:
 /***/ (function(module, exports) {
 
-module.exports = "<section>\n  <div class=\"showcass container\">\n    <h2>Our Service</h2>\n    <h3>We help students apply to universities in the United States</h3>\n    <div class=\"flexcontainer\" >\n      <md-card>\n         <img md-card-image src=\"https://www.tech-critic.com/wp-content/uploads/2015/03/online-strategy-consulting-300x183.jpg\" alt=\"Online Consultancy\">\n         <md-card-title>\n            Online Consultancy\n         </md-card-title>\n         <md-card-content>\n           We guide you through the whole process.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"http://www.imigresen.gov.bn/SiteAssets/Lists/Announcement/AllItems/visa-application.jpg\" alt=\"Visa Procedure\">\n        <md-card-title>\n            Visa Procedure\n         </md-card-title>\n         <md-card-content>\n          We provide help in Visa procurement.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"http://www.stirlingcourthotel.com/MediaGallery/119___Selected.jpg\" alt=\"Accommodation\">\n        <md-card-title>\n            Accommodation\n         </md-card-title>\n         <md-card-content>\n          We also guide you for your accommodation.\n         </md-card-content>\n      </md-card>\n      <md-card>\n         <img md-card-image src=\"http://www.everifyzone.com/wp-content/uploads/2016/01/educational-verification.png\" alt=\"Document Verification\">\n         <md-card-title>\n            Document Verification\n         </md-card-title>\n         <md-card-content>\n           We verify your documents for you.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"http://www.atlasedu.com/images/spot_resim/buyuk/tP2Er3Huh3WNGEMyFjSx_usa-visa-h.jpg\" alt=\"Embassy Enquiry\">\n        <md-card-title>\n           Embassy Enquiry\n         </md-card-title>\n         <md-card-content>\n          We also deal with embassy related issues.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"http://staff.salford.ac.uk/cms/resources/uploads/images/image_bank/1456998515-studentsupportweb.jpg\" alt=\"Student support\">\n        <md-card-title>\n            Student Support\n         </md-card-title>\n         <md-card-content>\n          We also give you support even after you join.\n         </md-card-content>\n      </md-card>\n    </div>\n  </div>\n</section>\n"
+module.exports = "<section>\n  <div class=\"showcass container\">\n    <h2>Our Service</h2>\n    <h3>We help students apply to universities in the United States</h3>\n    <div class=\"flexcontainer\" >\n      <md-card>\n         <img md-card-image src=\"../../../assets/Online_Consultancy.jpg\" alt=\"Online Consultancy\">\n         <md-card-title>\n            Online Consultancy\n         </md-card-title>\n         <md-card-content>\n           We guide you through the whole process.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Visa_Procedure.jpg\" alt=\"Visa Procedure\">\n        <md-card-title>\n            Visa Procedure\n         </md-card-title>\n         <md-card-content>\n          We provide help in Visa procurement.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Accommodation.jpg\" alt=\"Accommodation\">\n        <md-card-title>\n            Accommodation\n         </md-card-title>\n         <md-card-content>\n          We also guide you for your accommodation.\n         </md-card-content>\n      </md-card>\n      <md-card>\n         <img md-card-image src=\"../../../assets/Document Verification.png\" alt=\"Document Verification\">\n         <md-card-title>\n            Document Verification\n         </md-card-title>\n         <md-card-content>\n           We verify your documents for you.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Embassy_Enquiry.jpg\" alt=\"Embassy Enquiry\">\n        <md-card-title>\n           Embassy Enquiry\n         </md-card-title>\n         <md-card-content>\n          We also deal with embassy related issues.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Student_support.jpg\" alt=\"Student support\">\n        <md-card-title>\n            Student Support\n         </md-card-title>\n         <md-card-content>\n          We also give you support even after you join.\n         </md-card-content>\n      </md-card>\n    </div>\n  </div>\n</section>\n"
 
 /***/ }),
 
