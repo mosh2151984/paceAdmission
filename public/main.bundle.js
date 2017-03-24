@@ -31,7 +31,7 @@ var AboutComponent = (function () {
     ], AboutComponent);
     return AboutComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/about.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/about.component.js.map
 
 /***/ }),
 
@@ -66,7 +66,7 @@ var DashboardComponent = (function () {
     ], DashboardComponent);
     return DashboardComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/dashboard.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/dashboard.component.js.map
 
 /***/ }),
 
@@ -112,7 +112,7 @@ var HomeComponent = (function () {
     ], HomeComponent);
     return HomeComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/home.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/home.component.js.map
 
 /***/ }),
 
@@ -147,7 +147,7 @@ var LoginComponent = (function () {
     ], LoginComponent);
     return LoginComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/login.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/login.component.js.map
 
 /***/ }),
 
@@ -182,7 +182,7 @@ var PagenotfoundComponent = (function () {
     ], PagenotfoundComponent);
     return PagenotfoundComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/pagenotfound.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/pagenotfound.component.js.map
 
 /***/ }),
 
@@ -236,7 +236,7 @@ var RegisterComponent = (function () {
     return RegisterComponent;
     var _a;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/register.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/register.component.js.map
 
 /***/ }),
 
@@ -271,7 +271,7 @@ var ServicesComponent = (function () {
     ], ServicesComponent);
     return ServicesComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/services.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/services.component.js.map
 
 /***/ }),
 
@@ -338,7 +338,7 @@ var ValidatService = (function () {
     ], ValidatService);
     return ValidatService;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/validat.service.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/validat.service.js.map
 
 /***/ }),
 
@@ -373,7 +373,7 @@ if (__WEBPACK_IMPORTED_MODULE_2__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["a" /* enableProdMode */])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_3__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/main.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/main.js.map
 
 /***/ }),
 
@@ -435,7 +435,7 @@ var AppRoutingModule = (function () {
     ], AppRoutingModule);
     return AppRoutingModule;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/app-routing.module.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/app-routing.module.js.map
 
 /***/ }),
 
@@ -468,7 +468,7 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/app.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/app.component.js.map
 
 /***/ }),
 
@@ -566,7 +566,7 @@ var AppModule = (function () {
     ], AppModule);
     return AppModule;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/app.module.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/app.module.js.map
 
 /***/ }),
 
@@ -608,7 +608,7 @@ var CarouselComponent = (function () {
     ], CarouselComponent);
     return CarouselComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/carousel.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/carousel.component.js.map
 
 /***/ }),
 
@@ -648,7 +648,7 @@ var NavbarComponent = (function () {
     ], NavbarComponent);
     return NavbarComponent;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/navbar.component.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/navbar.component.js.map
 
 /***/ }),
 
@@ -684,7 +684,7 @@ var AthService = (function () {
     return AthService;
     var _a;
 }());
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/ath.service.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/ath.service.js.map
 
 /***/ }),
 
@@ -700,7 +700,7 @@ var AthService = (function () {
 var environment = {
     production: false
 };
-//# sourceMappingURL=C:/Users/mosh2151984/Documents/Github/Pace Admission/MyApp/src/environment.js.map
+//# sourceMappingURL=C:/Users/mosh2151984/documents/github/pace Admission/MyApp/src/environment.js.map
 
 /***/ }),
 
@@ -840,7 +840,7 @@ module.exports = "\r\n<section >\r\n  <div class=\"contaner\">\r\n      <md-card
 /***/ 896:
 /***/ (function(module, exports) {
 
-module.exports = "<section>\n  <div class=\"showcass container\">\n    <h2>Our Service</h2>\n    <h3>We help students apply to universities in the United States</h3>\n    <div class=\"flexcontainer\" >\n      <md-card>\n         <img md-card-image src=\"../../../assets/Online_Consultancy.jpg\" alt=\"Online Consultancy\">\n         <md-card-title>\n            Online Consultancy\n         </md-card-title>\n         <md-card-content>\n           We guide you through the whole process.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Visa_Procedure.jpg\" alt=\"Visa Procedure\">\n        <md-card-title>\n            Visa Procedure\n         </md-card-title>\n         <md-card-content>\n          We provide help in Visa procurement.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Accommodation.jpg\" alt=\"Accommodation\">\n        <md-card-title>\n            Accommodation\n         </md-card-title>\n         <md-card-content>\n          We also guide you for your accommodation.\n         </md-card-content>\n      </md-card>\n      <md-card>\n         <img md-card-image src=\"../../../assets/Document Verification.png\" alt=\"Document Verification\">\n         <md-card-title>\n            Document Verification\n         </md-card-title>\n         <md-card-content>\n           We verify your documents for you.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Embassy_Enquiry.jpg\" alt=\"Embassy Enquiry\">\n        <md-card-title>\n           Embassy Enquiry\n         </md-card-title>\n         <md-card-content>\n          We also deal with embassy related issues.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Student_support.jpg\" alt=\"Student support\">\n        <md-card-title>\n            Student Support\n         </md-card-title>\n         <md-card-content>\n          We also give you support even after you join.\n         </md-card-content>\n      </md-card>\n    </div>\n  </div>\n</section>\n"
+module.exports = "<section>\n  <div class=\"showcass container\">\n    <h2>Our Service</h2>\n    <h3>We help students apply to universities in the United States</h3>\n    <div class=\"flexcontainer\" >\n      <md-card>\n         <img md-card-image src=\"../../../assets/Online_Consultancy.jpg\" alt=\"Online Consultancy\">\n         <md-card-title>\n            Online Consultancy\n         </md-card-title>\n         <md-card-content>\n           We guide you through the whole process.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Visa_Procedure.jpg\" alt=\"Visa Procedure\">\n        <md-card-title>\n            Visa Procedure\n         </md-card-title>\n         <md-card-content>\n          We provide help in Visa procurement.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Accommodation.jpg\" alt=\"Accommodation\">\n        <md-card-title>\n            Accommodation\n         </md-card-title>\n         <md-card-content>\n          We also guide you for your accommodation.\n         </md-card-content>\n      </md-card>\n      <md-card>\n         <img md-card-image src=\"../../../assets/Document_Verification.png\" alt=\"Document Verification\">\n         <md-card-title>\n            Document Verification\n         </md-card-title>\n         <md-card-content>\n           We verify your documents for you.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Embassy_Enquiry.jpg\" alt=\"Embassy Enquiry\">\n        <md-card-title>\n           Embassy Enquiry\n         </md-card-title>\n         <md-card-content>\n          We also deal with embassy related issues.\n         </md-card-content>\n      </md-card>\n      <md-card>\n        <img md-card-image src=\"../../../assets/Student_support.jpg\" alt=\"Student support\">\n        <md-card-title>\n            Student Support\n         </md-card-title>\n         <md-card-content>\n          We also give you support even after you join.\n         </md-card-content>\n      </md-card>\n    </div>\n  </div>\n</section>\n"
 
 /***/ }),
 
