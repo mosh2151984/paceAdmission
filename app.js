@@ -29,10 +29,10 @@ app.use(bodyparser.urlencoded({ extended: true }));
 mongoose.connect(config.database);
 let db = mongoose.connection;
 db.on('connected',()=>{
-  console.log('conected to database'+ config.database)
+  console.log('conected to database'+ config.database);
 });
 db.on('error',(err)=>{
-  console.log('Database Error: '+ err)
+  console.log('Database Error: '+ err);
 });
 
 //static folder

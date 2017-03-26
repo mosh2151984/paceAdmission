@@ -1,15 +1,16 @@
 const express = require('express');
 const router = express.Router();
+const mongoose = require('mongoose');
 
 
-router.post('/register',(req,res,next) =>{
-  res.send('instructor REGISTER');
+router.get('/register',(req,res,next) =>{
+
 });
 
 router.post('/profile',(req,res,next) =>{
   res.send('instructor profile');
 });
 router.get('/outh',(req,res,next) =>{
-  res.send('instructor outh');
+  res.send('instructor outh');
 });
 module.exports = router;
